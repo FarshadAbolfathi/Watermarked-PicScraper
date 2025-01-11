@@ -1,4 +1,3 @@
-**English**: 
 
 # Watermarked PicScraper
 
@@ -38,7 +37,6 @@ Before running the project, make sure you have the following installed:
 
 ---
 
-**فارسی**:
 
 # اسکرپر تصاویر با واترمارک
 
